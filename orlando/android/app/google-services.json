@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235955287112",
+    "project_id": "avaliacao2-14208",
+    "storage_bucket": "avaliacao2-14208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235955287112:android:ad5ed38f42480b73b5147d",
+        "android_client_info": {
+          "package_name": "com.example.orlando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235955287112-rmu3lo25ainek5721htphckh115tamok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orlando",
+            "certificate_hash": "246ad48c9f3d3e5f21edd54ab59caa902c8a98a2"
+          }
+        },
+        {
+          "client_id": "235955287112-r2aaf9tmj30pbbbqekl4htva6e7l576b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpWG-H6FjpdR8XFHfB5PXoxtuWJIQyEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235955287112-r2aaf9tmj30pbbbqekl4htva6e7l576b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
